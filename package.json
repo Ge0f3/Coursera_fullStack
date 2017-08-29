@@ -1,0 +1,27 @@
+{
+  "name": "coursera_fullstack",
+  "version": "1.0.0",
+  "description": "This is a respository that will containt full stack web development files",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "scripts": {
+    "start" :"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ge0f3/Coursera_fullStack.git"
+  },
+  "author": "Geoffrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ge0f3/Coursera_fullStack/issues"
+  },
+  "homepage": "https://github.com/Ge0f3/Coursera_fullStack#readme"
+}
