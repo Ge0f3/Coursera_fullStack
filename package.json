@@ -4,15 +4,16 @@
   "description": "This is a respository that will containt full stack web development files",
   "main": "index.js",
   "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
     "lite-server": "^2.3.0"
   },
   "devDependencies": {
     "lite-server": "^2.3.0"
   },
   "scripts": {
-    "start" :"npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
